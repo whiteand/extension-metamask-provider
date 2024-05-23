@@ -1,9 +1,11 @@
 {
+  "name": "@whiteand/extension-metamask-provider",
+  "version": "0.1.0",
   "dependencies": {
-    "@metamask/providers": "^16.1.0",
-    "@types/chrome": "^0.0.268",
-    "detect-browser": "^5.3.0",
-    "extension-port-stream": "^3.0.0"
+    "@metamask/providers": "16.1.0",
+    "@types/chrome": "0.0.268",
+    "detect-browser": "5.3.0",
+    "extension-port-stream": "3.0.0"
   },
   "devDependencies": {
     "typescript": "^5.4.5"
