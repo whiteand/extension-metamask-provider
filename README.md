@@ -27,3 +27,8 @@ provider.request({
     // ...
 })
 ```
+
+## Docs 
+
+- [JSR Docs](https://jsr.io/@whiteand/extension-metamask-provider)
+
